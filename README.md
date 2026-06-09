@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi there 👋 I'm Gurveer
+💻 BCA Student | Full Stack Developer | Technical Head @ CSI
 
-<!--
-**Gurveer88/Gurveer88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer currently pursuing BCA at Chitkara University with a strong interest in full-stack development, backend systems, and developer tools.
 
-Here are some ideas to get you started:
+🚀 Tech Stack
+Languages
+C
+JavaScript
+Python
+Frontend
+React.js
+HTML5
+CSS3
+Tailwind CSS
+Backend
+Node.js
+Express.js
+Tools & Technologies
+Git & GitHub
+REST APIs
+Axios
+Vite
+Postman
+📌 Current Focus
+Full Stack Development
+Backend Architecture
+API Development
+React Ecosystem
+Software Engineering Concepts
+📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+🌐 Connect With Me
+GitHub: https://github.com/Gurveer88
+
+“Build. Break. Learn. Repeat.”
