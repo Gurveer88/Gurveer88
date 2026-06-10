@@ -9,27 +9,26 @@ A dedicated software developer pursuing a Bachelor of Computer Applications at C
 ## Technical Skills
 
 ### Core Programming Languages
-* Python
-* JavaScript
-* C
+* <kbd>Python</kbd>
+* <kbd>JavaScript</kbd>
+* <kbd>C</kbd>
 
 ### Frontend Architecture
-* React.js (Vite ecosystem)
-* Tailwind CSS
-* HTML5 / CSS3
+* <kbd>React.js (Vite ecosystem)</kbd>
+* <kbd>Tailwind CSS</kbd>
+* <kbd>HTML5 / CSS3</kbd>
 
 ### Backend Ecosystem & Frameworks
-* FastAPI
-* Python Backend Architecture
-* Node.js / Express.js
-* RESTful API Design
+* <kbd>FastAPI</kbd>
+* <kbd>Python Backend Architecture</kbd>
+* <kbd>Node.js / Express.js</kbd>
+* <kbd>RESTful API Design</kbd>
 
 ### Development Tools & Infrastructure
-* Git & GitHub (Version Control)
-* WebSockets & Real-time Protocols
-* Postman & API Documentation
-* Axios & Asynchronous Data Fetching
-* Relational & Non-Relational Database Integrations
+* <kbd>Git & GitHub</kbd>
+* <kbd>WebSockets</kbd>
+* <kbd>Postman</kbd>
+* <kbd>Axios</kbd>
 
 ---
 
